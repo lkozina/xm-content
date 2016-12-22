@@ -1,4 +1,4 @@
-#How to Create a Project (Basic)
+# How to Create a Project (Basic)
 
 DilogR offers a myriad of Project choices: Video Projects, Webinars, Scored Quizzes (simple and advanced), Persona/Personality Quizzes (simple and advanced), Polls, Surveys, and Interactive Images. All are designed to increase engagement, traffic, leads and sales while capturing valuable data that makes you a more strategic marketer.
 
@@ -6,7 +6,7 @@ Regardless of which Project you choose, the beginning of each one follows the sa
 
 ![alt tag](http://dilogr.com/training/wp-content/uploads/2016/08/myprojects.png)
 
-##My Projects
+## My Projects
 
 Next, you will see a green button on the right top of the page with “Create” and the type of Project you are creating, in this case, a Scored Quiz. Click on that button.
 
