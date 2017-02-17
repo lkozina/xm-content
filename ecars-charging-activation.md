@@ -1,6 +1,3 @@
-![alt tag](https://www.chargepoint.com/img/rfid.png)
-
-
 ## Activation through SMS
 
 Please, sent empty SMS on number: 5567
