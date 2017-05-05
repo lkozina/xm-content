@@ -23,7 +23,7 @@
 
 ### Ми досягнемо запланованих цілей через реалізацію локальних проектів учасників мережі Global Ukrainians та системоутворюючих проектів мережі, таких, як
 
-Global Ukraine (brand), Global Ukraine News, Global Ukraine Academy та інших. 
+Global Ukrainians (network), Global Ukraine News, Global Ukraine Business Hub, Global Ukraine Academy та інших. 
 
 ## Критерії приєднання до мережі Global Ukrainians
 
